@@ -1,2 +1,2 @@
-# AI_Credit_Risk
+# AI Credit Risk
 AI in Credit Risk
