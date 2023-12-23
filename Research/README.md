@@ -1,5 +1,5 @@
 ## Project Management
-- Why Data Science Projects Fail? -
+Why Data Science Projects Fail?
 -   https://arxiv.org/pdf/2308.04896.pdf
 
 ## Casual Inference ML
