@@ -7,3 +7,4 @@ Why Data Science Projects Fail?
 - https://github.com/py-why/EconML
   -  Examples
   -    https://machinehack.com/story/building-a-causal-inference-model-using-econml
+- Uber Causal ML - https://github.com/uber/causalml
