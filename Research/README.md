@@ -11,3 +11,11 @@ Why Data Science Projects Fail?
 - Netflix Causal Blog - https://netflixtechblog.com/causal-machine-learning-for-creative-insights-4b0ce22a8a96
 - Causal Forest - https://github.com/grf-labs/grf
 - Adapting Neural Networks for the Estimation of Treatment Effects - https://github.com/claudiashi57/dragonnet
+
+## Explainable AI
+### Papers
+- Shapley Flow - https://arxiv.org/pdf/2010.14592.pdf     
+- Using Small Business Banking Data for Explainable Credit Risk Scoring - https://ojs.aaai.org/index.php/AAAI/article/view/7055      
+- Comparing scores and reason codes in credit scoring systems - https://www.equifax.com/resource/-/asset/white-paper/comparing-scores-and-reason-codes-in-credit-scoring-systems/     
+- Monotonicity Constraints       
+    - https://www.provenir.com/resources/blog/constraining-machine-learning-credit-decision-models/
