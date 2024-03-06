@@ -19,3 +19,6 @@ Why Data Science Projects Fail?
 - Comparing scores and reason codes in credit scoring systems - https://www.equifax.com/resource/-/asset/white-paper/comparing-scores-and-reason-codes-in-credit-scoring-systems/     
 - Monotonicity Constraints       
     - https://www.provenir.com/resources/blog/constraining-machine-learning-credit-decision-models/
+
+## Sample Weight Basis ROC
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
